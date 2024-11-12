@@ -1,5 +1,3 @@
-const path = require('path');
-
 module.exports = {
   extends: ['expo', 'plugin:tailwindcss/recommended', 'prettier'],
   plugins: [
